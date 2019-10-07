@@ -1,2 +1,2 @@
 // Write your solution here!
-mySolution = 'oi'
+mySolution = 'oi come on son'
