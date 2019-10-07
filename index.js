@@ -1,2 +1,2 @@
 // Write your solution here!
-mySolution = 'oi pollo'
+mySolution = 'oi'
